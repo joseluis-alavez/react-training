@@ -1,0 +1,13 @@
+{
+    "name": "javascript-refresher-start",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx serve .",
+        "dev": "npx live-server --port=3000 --open=/index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
